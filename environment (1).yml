@@ -8,12 +8,12 @@ dependencies:
   - r-base=4.0
   - plotly
   - pandas
+  - seaborn
   - matplotlib
   - scikit-learn
   - numpy
   - scipy
   - statsmodels
-  - seaborn
   - r-dplyr
   - r-ggplot2
   - r-reshape2
